@@ -52,11 +52,13 @@ const Hero = () => {
           
           <div className="flex justify-center gap-4 animate-fade-in delay-1000">
             <Link 
-              to="/portfolio"
+              to="https://github.com/shawon111"
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-gradient-to-r from-cyan-500 via-fuchsia-500 to-violet-500 text-white px-8 py-3 rounded-full font-semibold hover:scale-105 transition-transform duration-300 flex items-center gap-2 shadow-lg shadow-cyan-500/25"
             >
               <ExternalLink className="w-5 h-5" />
-              View Portfolio
+              Github
             </Link>
             <a 
               href="mailto:shawonahmmed19@gmail.com"
