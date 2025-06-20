@@ -57,15 +57,16 @@ const Hero = () => {
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-cyan-500 via-fuchsia-500 to-violet-500 text-white px-8 py-3 rounded-full font-semibold hover:scale-105 transition-transform duration-300 flex items-center gap-2 shadow-lg shadow-cyan-500/25"
             >
-              <ExternalLink className="w-5 h-5" />
+              <Github className="w-5 h-5" />
               Github
             </Link>
-            <a 
-              href="mailto:shawonahmmed19@gmail.com"
-              className="border-2 border-gradient-to-r border-cyan-500 text-cyan-300 px-8 py-3 rounded-full font-semibold hover:bg-gradient-to-r hover:from-cyan-500/10 hover:to-fuchsia-500/10 hover:text-white transition-all duration-300"
+            <Link 
+              to="/portfolio"
+              className="border-2 border-gradient-to-r border-cyan-500 text-cyan-300 px-8 py-3 rounded-full font-semibold hover:bg-gradient-to-r hover:from-cyan-500/10 hover:to-fuchsia-500/10 hover:text-white transition-all duration-300 flex items-center gap-2 shadow-lg shadow-cyan-500/25"
             >
-              Contact Me
-            </a>
+              <ExternalLink className="w-5 h-5" />
+              Portfolio
+            </Link>
           </div>
         </div>
       </div>
