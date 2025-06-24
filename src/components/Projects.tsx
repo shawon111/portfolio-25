@@ -34,7 +34,7 @@ const Projects = () => {
     },
     {
       title: "Prayer Time", 
-      description: "Client project featuring prayer time tracking with PayPal SDK integration",
+      description: "Ecommerce project built with React.js and PayPal SDK for payment integration",
       tech: ["React.js", "PayPal SDK"],
       liveLink: "https://my-prayer-time.netlify.app/",
       category: "Client",
@@ -50,7 +50,7 @@ const Projects = () => {
     },
     {
       title: "Mogecoin",
-      description: "Cryptocurrency platform built with vanilla JavaScript and modern CSS",
+      description: "Cryptocurrency landing page built with vanilla JavaScript and modern CSS",
       tech: ["HTML", "CSS", "JavaScript"],
       liveLink: "https://www.mogecoin.com/",
       category: "Client",
