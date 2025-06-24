@@ -17,7 +17,7 @@ const Portfolio = () => {
     },
     {
       title: "Prayer Time", 
-      description: "Client project featuring prayer time tracking application with PayPal SDK integration for premium features and donations.",
+      description: "Professional client project built with React.js. Ecommerce platform selling prayer mats with PayPal SDK integration for secure payments.",
       tech: ["React.js", "PayPal SDK"],
       liveLink: "https://my-prayer-time.netlify.app/",
       category: "Client",
@@ -47,7 +47,7 @@ const Portfolio = () => {
     },
     {
       title: "Mogecoin",
-      description: "Cryptocurrency platform built with vanilla JavaScript featuring real-time data, trading interface, and responsive design for crypto enthusiasts.",
+      description: "Cryptocurrency landing page built with vanilla JavaScript and modern CSS techniques. Features responsive design, and interactive elements.",
       tech: ["HTML", "CSS", "JavaScript"],
       liveLink: "https://www.mogecoin.com/",
       category: "Client",
@@ -57,7 +57,7 @@ const Portfolio = () => {
     },
     {
       title: "Desi Takeout",
-      description: "Restaurant ordering platform built with Next.js featuring online ordering, menu management, and delivery tracking system.",
+      description: "Restaurant website built with Next.js full-stack architecture featuring  menu management and food showcase.",
       tech: ["Next.js", "Full-stack"],
       liveLink: "https://desitakeout.net/",
       category: "Client",
@@ -87,7 +87,7 @@ const Portfolio = () => {
     },
     {
       title: "Pera Implant",
-      description: "Medical website built with WordPress and Elementor featuring appointment booking, service showcase, and patient information management.",
+      description: "Medical website built with WordPress and Elementor.",
       tech: ["WordPress", "Elementor"],
       liveLink: "https://pera-implant.com/en/",
       category: "WordPress",
@@ -97,7 +97,7 @@ const Portfolio = () => {
     },
     {
       title: "Has Plomberie",
-      description: "Plumbing services website built with WordPress and Elementor featuring service listings, contact forms, and professional presentation.",
+      description: "Plumbing services website built with WordPress and Elementor featuring contact forms, and professional presentation.",
       tech: ["WordPress", "Elementor"],
       liveLink: "https://hasplomberie.com/",
       category: "WordPress",
@@ -107,7 +107,7 @@ const Portfolio = () => {
     },
     {
       title: "Brainy Future",
-      description: "Educational platform built with WordPress and Elementor featuring course management, student portals, and learning resources.",
+      description: "Educational platform built with WordPress and Elementor.",
       tech: ["WordPress", "Elementor"],
       liveLink: "http://brainyfuture.com/",
       category: "WordPress",
