@@ -1,5 +1,5 @@
 
-import { Mail, MapPin, ExternalLink } from 'lucide-react';
+import { Mail, MapPin, ExternalLink, Linkedin } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Contact = () => {
@@ -53,7 +53,7 @@ const Contact = () => {
               
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 bg-green-500 rounded-full flex items-center justify-center">
-                  <ExternalLink className="w-6 h-6 text-white" />
+                  <Linkedin className="w-6 h-6 text-white" />
                 </div>
                 <div>
                   <div className="text-white font-semibold">LinkedIn</div>
