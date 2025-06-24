@@ -23,7 +23,7 @@ const Portfolio = () => {
       category: "Client",
       status: "Live",
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      features: ["Prayer Tracking", "PayPal Integration", "User Authentication", "Responsive UI"]
+      features: ["E-commerce Functionality", "Payment Integration", "Responsive Design"]
     },
     {
       title: "Memory Mate",
@@ -43,7 +43,7 @@ const Portfolio = () => {
       category: "Client",
       status: "Live",
       image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=600&h=400&fit=crop",
-      features: ["E-commerce Platform", "Luxury Design", "Payment Integration", "Product Management"]
+      features: ["E-commerce Platform", "Luxury Design", "Product Management"]
     },
     {
       title: "Mogecoin",
@@ -53,7 +53,7 @@ const Portfolio = () => {
       category: "Client",
       status: "Live",
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      features: ["Crypto Trading", "Real-time Data", "Responsive Design", "Modern JavaScript"]
+      features: ["Responsive Design", "Modern JavaScript"]
     },
     {
       title: "Desi Takeout",
@@ -63,7 +63,7 @@ const Portfolio = () => {
       category: "Client",
       status: "Live",
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-      features: ["Online Ordering", "Menu Management", "Delivery Tracking", "Payment Processing"]
+      features: ["Full-stack Architecture", "Menu Management", "Food Showcase", "Responsive Design"]
     },
     {
       title: "Archite",
@@ -93,7 +93,7 @@ const Portfolio = () => {
       category: "WordPress",
       status: "Live",
       image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-      features: ["Medical Website", "Appointment Booking", "Service Showcase", "Multilingual Support"]
+      features: ["Medical Website", "Service Showcase", "Multilingual Support"]
     },
     {
       title: "Has Plomberie",
@@ -113,7 +113,7 @@ const Portfolio = () => {
       category: "WordPress",
       status: "Live",
       image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
-      features: ["Educational Platform", "Course Management", "Student Portal", "Learning Resources"]
+      features: ["Educational Platform", "Appointment Booking"]
     },
     {
       title: "Zar Agency",
