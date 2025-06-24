@@ -47,7 +47,7 @@ const Hero = () => {
               <span>shawonahmmed19@gmail.com</span>
             </Link>
             <Link
-              to="/resume-shawon.pdf"
+              to="/shawon-frontend-resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-gray-300 bg-slate-800/50 px-4 py-2 rounded-full border border-fuchsia-500/20">

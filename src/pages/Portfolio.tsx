@@ -267,7 +267,7 @@ const Portfolio = () => {
             Let's create something amazing together!
           </p>
           <Link 
-            to="/#contact"
+            to="mailto:shawonahmmed19@gmail.com"
             className="inline-flex items-center gap-2 bg-gradient-to-r from-cyan-500 via-fuchsia-500 to-violet-500 text-white px-8 py-3 rounded-full font-semibold hover:scale-105 transition-transform duration-300 shadow-lg shadow-cyan-500/25"
           >
             Get In Touch
